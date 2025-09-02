@@ -1,8 +1,12 @@
 # 📚 Taller Gitub
 
-Un portafolio web simple y minimalista para estudiantes de programación. 
-### 1. Cambiar tu Información Personal
-
+## Pasos para crear tu portafolio
+### 1. Fork el repositorio y clonalo a tu máquina
+### 2 .Clona el repositorio
+```
+git clone https://github.com/<tu-usuario>/Taller-Github.git
+```
+### 3. Cambia tu información personal
 **En el archivo `index.html`:**
 - Cambia `Tu Nombre` por tu nombre real
 - Actualiza tu edad, ubicación y estudios
@@ -11,7 +15,7 @@ Un portafolio web simple y minimalista para estudiantes de programación.
 - Cambia tus habilidades
 - Actualiza tu información de contacto
 
-### 2. Cambiar los Colores
+### 4. Cambiar los Colores
 
 **En el archivo `styles.css`:**
 ```css
@@ -23,7 +27,7 @@ Un portafolio web simple y minimalista para estudiantes de programación.
 }
 ```
 
-### 3. Agregar Más Proyectos
+ ### 5. Agregar Más Proyectos
 
 Copia este bloque en la sección de proyectos:
 ```html
