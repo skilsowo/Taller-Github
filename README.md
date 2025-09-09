@@ -61,6 +61,8 @@ Copia este bloque en la sección de proyectos:
 
 ## Recursos Útiles
 - [GitHub Education](https://education.github.com) - Recursos gratuitos para estudiantes
+- [Juego de git](https://learngitbranching.js.org) - Para aprender git jugando
+- [Cheatsheet de git](https://education.github.com/git-cheat-sheet-education.pdf) - Hoja de todos los comandos
 - [GitHub Docs](https://docs.github.com) - Documentación oficial
 - [HTML Tutorial](https://www.w3schools.com/html/) - Aprende HTML
 - [CSS Tutorial](https://www.w3schools.com/css/) - Aprende CSS
